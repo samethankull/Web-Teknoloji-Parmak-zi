@@ -61,16 +61,6 @@ beautifulsoup4>=4.9.0
 python WebTeknolojiParmakİzi.py
 ```
 
-### Kod İçinde Kullanım
-
-```python
-from web_tech_fingerprinter import WebTechFingerprinter
-
-fingerprinter = WebTechFingerprinter("https://example.com")
-report = fingerprinter.analyze()
-print(report)
-```
-
 ### Örnek Çıktı
 
 ```json

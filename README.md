@@ -58,7 +58,7 @@ beautifulsoup4>=4.9.0
 ### Basit Kullanım
 
 ```bash
-python WebTeknolojiparmakizi.py
+python WebTeknolojiParmakİzi.py
 ```
 
 ### Kod İçinde Kullanım

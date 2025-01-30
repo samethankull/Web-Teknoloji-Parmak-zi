@@ -2,7 +2,7 @@
 
 Web uygulamalarında kullanılan teknolojileri tespit eden, sürüm bilgilerini çıkaran ve olası güvenlik açıklarını belirleyen Python tabanlı bir analiz aracı.
 
-Temel Bilgiler
+📋Temel Bilgiler
 
 -Proje Adı: Web Teknoloji Parmak İzi
 

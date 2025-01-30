@@ -18,6 +18,15 @@ Temel Bilgiler
 - Teknoloji stack güvenlik değerlendirmesi
 - Detaylı JSON formatında raporlama
 
+## 🚀 Kullanılan Kütüphaneler ve Versiyonlar 
+
+- requests>=2.28.0 HTTP istekleri için 
+- beautifulsoup4>=4.9.0 HTML parsing işlemleri
+- typing Python 3.7+ Tip tanımlamaları
+- json Built-inJSON işlemleri
+- re Built-inRegular expression işlemleri
+- urllib Built-inURL işlemleri
+
 ## 📋 Gereksinimler
 
 - Python 3.7+

@@ -49,7 +49,7 @@ beautifulsoup4>=4.9.0
 ### Basit Kullanım
 
 ```bash
-python fingerprinter.py
+python WebTeknolojiparmakizi.py
 ```
 
 ### Kod İçinde Kullanım

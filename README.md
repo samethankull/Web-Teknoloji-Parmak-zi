@@ -28,15 +28,8 @@ Temel Bilgiler
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/samethankull/web-tech-fingerprinter.git
-cd web-tech-fingerprinter
-```
-
-2. Virtual environment oluşturun:
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/Mac için
-.\venv\Scripts\activate   # Windows için
+git clone (https://github.com/samethankull/Web-Teknoloji-Parmak-zi.git)
+cd Web-Teknoloji-Parmak-zi.git
 ```
 
 3. Gerekli paketleri yükleyin:

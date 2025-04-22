@@ -2,13 +2,7 @@
 
 Web uygulamalarında kullanılan teknolojileri tespit eden, sürüm bilgilerini çıkaran ve olası güvenlik açıklarını belirleyen Python tabanlı bir analiz aracı.
 
-📋Temel Bilgiler
 
--Proje Adı: Web Teknoloji Parmak İzi
-
--Öğrenci Adı ve Numarası: 2320191022 Samethan Kül
-
--Teslim Tarihi: 30.01.2025
 
 ## 🚀 Özellikler
 
